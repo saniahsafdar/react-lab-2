@@ -1,0 +1,7 @@
+.PostForm {
+    display: hidden;
+}
+
+.PostForm.showing{
+    display: visible;
+}
